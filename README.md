@@ -1,4 +1,5 @@
 #Single Page CV
+
 Project URL: https://roadmap.sh/projects/single-page-cv
 - A single page CV with education, skills and career history.
 - Made using only HTML.
